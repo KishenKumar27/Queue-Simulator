@@ -1,6 +1,8 @@
 # Queue-Simulator
 Creating a simulator for customer arrivals at a service centre.
 
+Details of the simulation
+
 ➢Firstly, the simulation will display choices of Random Number
 Generator for users to choose.
 
