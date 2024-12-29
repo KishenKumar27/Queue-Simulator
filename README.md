@@ -3,6 +3,14 @@
 ## Overview
 The Queue Simulator is a system designed to simulate customer arrivals at a service center, where customers' temperatures, arrival times, and service times are randomly generated. The simulation tracks customer movements within the center, calculates waiting times, and evaluates the performance of the service center based on various metrics.
 
+## Project Structure
+
+- **365660_Coding Assignment T2_2020.pdf**: Assignment instructions and guidelines.
+- **MainScreen.m**: Main code for simulating the queue system.
+- **README.md**: This file, providing an overview of the project.
+- **Report.pdf**: The detailed report, including the simulation results, flowchart, and explanations of important source codes.
+- **randomizer.m**: Generates random numbers for temperatures, inter-arrival times, and service times.
+
 ## Features
 - **Random Number Generation**: The simulation allows users to choose from various random number generators to generate customer-related data, such as:
   - Temperature
